@@ -8,3 +8,6 @@ echo deb https://apt.dockerproject.org/repo ubuntu-xenial main >> /etc/apt/sourc
 
 apt-get update
 apt-get install linux-image-extra-$(uname -r)
+apt-get install docker
+service docker start
+docker run hello-world
