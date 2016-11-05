@@ -1,5 +1,5 @@
 # installers
-Just a fewscripts with install commands. 
+Just a few scripts with install commands. 
 
 Use:
 
