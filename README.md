@@ -1,4 +1,7 @@
 # installers
-Just a script with commands from https://docs.docker.com/engine/installation/linux/ubuntulinux/ for Xenial. Instead of copy-paste:
+Just a fewscripts with install commands. 
+
+Use:
 
     curl https://raw.githubusercontent.com/kolov/installers/master/install-docker-xenial.sh | bash
+    curl https://raw.githubusercontent.com/kolov/installers/master/install-kubeadm-ubuntu.sh | bash
